@@ -3,5 +3,6 @@ added something
 add another thing
 add
 add something more to file 2
+more lines 1
 
 
